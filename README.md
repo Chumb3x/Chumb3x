@@ -1,7 +1,7 @@
 ### :wave: Hi there, I'm Chumb3x!
 
 <div align="left">
-  <img width="35%" src="https://github-contribution-stats.vercel.app/api/?username=jonesdevelopment&count_private=true&theme=darcula">
+  <img width="35%" src="https://github-contribution-stats.vercel.app/api/?username=Chumb3x&count_private=true&theme=darcula">
 </div>
 
 ### Languages and Tools

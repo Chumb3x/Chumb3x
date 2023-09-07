@@ -1,4 +1,7 @@
-### Hi there 👋
+### 👋 Hi there, I am Chumb3x
+https://camo.githubusercontent.com/6f1544e7c91a2f697431d8530a47b279ee79af48f4a741a20fab7d7c9ee593c9/68747470733a2f2f6769746875622d636f6e747269627574696f6e2d73746174732e76657263656c2e6170702f6170692f3f757365726e616d653d6a6f6e6573646576656c6f706d656e7426636f756e745f707269766174653d74727565267468656d653d64617263756c61
+
+
 
 <!--
 **Chumb3x/Chumb3x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
